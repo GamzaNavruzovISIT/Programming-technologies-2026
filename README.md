@@ -1,5 +1,7 @@
 # Programming-technologies-2026
 
+![Трон](https://www.reddit.com/r/tron/comments/fitzlj/greetings_programs/)
+
 Greetings, programs!
 
 Это репозиторий для курса "Технологии программирования" в 2026-2027 учебном году.
