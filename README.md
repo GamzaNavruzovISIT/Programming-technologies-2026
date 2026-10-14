@@ -1,6 +1,6 @@
 # Programming-technologies-2026
 
-![Трон](https://www.reddit.com/r/tron/comments/fitzlj/greetings_programs/)
+![Трон](https://i.redd.it/8anal7f5vqm41.png)
 
 Greetings, programs!
 
